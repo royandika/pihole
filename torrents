@@ -1,17 +1,3 @@
-# Title: StevenBlack/hosts
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via Github
-#
-# Date: 31 January 2020 02:40:21 (UTC)
-# Number of unique domains: 51,367
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
-# ===============================================================
-
 # ==========================1337X================================
 0.0.0.0 1337x.to
 0.0.0.0 1337x.st
