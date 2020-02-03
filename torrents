@@ -1,0 +1,76 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via Github
+#
+# Date: 31 January 2020 02:40:21 (UTC)
+# Number of unique domains: 51,367
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+# ==========================1337X================================
+0.0.0.0 1337x.to
+0.0.0.0 1337x.st
+0.0.0.0 x1337x.ws
+0.0.0.0 x1337x.eu
+0.0.0.0 x1337x.se
+0.0.0.0 1337x.is
+0.0.0.0 1337x.gd
+# ==========================OTHERS================================
+0.0.0.0 torrentz2.eu
+0.0.0.0 bitsnoop.com
+0.0.0.0 limetorrents.cc
+0.0.0.0 torrentfunk.com
+0.0.0.0 torrentbit.net
+0.0.0.0 torlock.com
+# ==========================PIRATESBAY================================
+0.0.0.0 proxboat.org
+0.0.0.0 proxboat.org
+0.0.0.0 247prox.in
+0.0.0.0 thepiratetpb.xyz
+0.0.0.0 tpbopen.org
+0.0.0.0 thepiratezbay.org
+0.0.0.0 ahoyproxydl.eu
+0.0.0.0 boatbay.click
+0.0.0.0 greenahoy.in
+0.0.0.0 bayunblocked.tel
+0.0.0.0 piratebaylive.in
+0.0.0.0 tpbpirate.org
+0.0.0.0 piratenbuchtindia.tel
+0.0.0.0 tpbtpb.link
+0.0.0.0 tpb.realty
+0.0.0.0 tpblife.in
+0.0.0.0 indiatpb.net
+0.0.0.0 piratebaaipirate.art
+0.0.0.0 tpbbay.net
+0.0.0.0 boatpiraat.net
+0.0.0.0 bayunblocked.net
+0.0.0.0 redbaypirate.net
+0.0.0.0 tpbthepirate.click
+0.0.0.0 ahoythepirate.in
+0.0.0.0 piratebaai247.top
+0.0.0.0 proxtpb.art
+0.0.0.0 piratbayahoy.xyz
+0.0.0.0 tpbtpb.rocks
+0.0.0.0 pirateprox.xyz
+0.0.0.0 piratepiraat.top
+0.0.0.0 indiaboat.art
+0.0.0.0 indiapirate.one
+0.0.0.0 proxy247.art
+0.0.0.0 247prox.link
+0.0.0.0 piratbaytpb.one
+0.0.0.0 kuiken.in
+0.0.0.0 pirateopen.club
+0.0.0.0 piratebay-proxylist.net
+# ==========================RARBG================================
+0.0.0.0 rarbg.com
+0.0.0.0 rarbgprx.org
+0.0.0.0 rarbgmirror.org
+0.0.0.0 rarbgunblock.com
+0.0.0.0 rarbgmirror.com
+0.0.0.0 rarbgtor.org
+0.0.0.0 rarbgto.org
